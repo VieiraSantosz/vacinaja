@@ -4,6 +4,6 @@ Projeto de Estrutura de Dados cuja a finalidade é gerar a aplicação ( em Ling
 # O Projeto foi divido em 3 Etapas:
 *Etapa 1 - Login de Acesso
 
-*Etapa 2 - : Pré-cadastro de cidadãos
+*Etapa 2 - Pré-cadastro de cidadãos
 
 *Etapa 3 - Cadastro de Vacinas e Lotes
