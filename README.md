@@ -1,5 +1,5 @@
 # VacinaJa
-Projeto de Estrutura de Dados cuja a finalidade é gerenciar a aplicação ( em Linguagem C ) a estruturas de dados no contexto de um software gerenciador de vacinas contra a COVID-19.
+Projeto de Estrutura de Dados com o objetivo de gerenciar estruturas de dados em um contexto de software de gestão de vacinas contra a COVID-19, desenvolvido em Linguagem C.
 
 # O Projeto foi divido em 3 Etapas:
 *Etapa 1 - Login de Acesso
